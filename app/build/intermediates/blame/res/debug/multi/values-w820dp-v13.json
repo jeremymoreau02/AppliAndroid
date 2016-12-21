@@ -1,0 +1,102 @@
+[
+    {
+        "outputFile": "D:\\Users\\jeremy\\Documents\\informatique\\master1\\android\\applis\\AppliAndroid\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "D:\\Users\\jeremy\\Documents\\informatique\\master1\\android\\applis\\AppliAndroid\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 295,
+                        "endColumn": 57,
+                        "endOffset": 348
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 62,
+                    "endOffset": 171
+                },
+                "from": {
+                    "file": "D:\\Users\\jeremy\\Documents\\informatique\\master1\\android\\applis\\AppliAndroid\\app\\src\\main\\res\\values-w820dp\\login_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 221,
+                        "endColumn": 62,
+                        "endOffset": 279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 176,
+                    "endColumn": 53,
+                    "endOffset": 225
+                },
+                "from": {
+                    "file": "D:\\Users\\jeremy\\Documents\\informatique\\master1\\android\\applis\\AppliAndroid\\app\\src\\main\\res\\values-w820dp\\login_strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 53,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 230,
+                    "endColumn": 50,
+                    "endOffset": 276
+                },
+                "from": {
+                    "file": "D:\\Users\\jeremy\\Documents\\informatique\\master1\\android\\applis\\AppliAndroid\\app\\src\\main\\res\\values-w820dp\\login_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 169,
+                        "endColumn": 50,
+                        "endOffset": 215
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 281,
+                    "endColumn": 55,
+                    "endOffset": 332
+                },
+                "from": {
+                    "file": "D:\\Users\\jeremy\\Documents\\informatique\\master1\\android\\applis\\AppliAndroid\\app\\src\\main\\res\\values-w820dp\\login_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 112,
+                        "endColumn": 55,
+                        "endOffset": 163
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_parametres"
+                    android:title="Parametres"/>
+                <item
+                    android:id="@+id/nav_contact"
+                    android:title="Contacter l'administateur" />
+                <item
+                    android:id="@+id/nav_home"
+                    android:title="Home" />
+                <item
+                    android:id="@+id/nav_deconnexion"
+                    android:title="Se deconnecter" />
+        </group>
+
+
+</menu>

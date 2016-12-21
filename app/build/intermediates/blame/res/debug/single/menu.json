@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Users\\jeremy\\Documents\\informatique\\master1\\android\\applis\\AppliAndroid\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_layout_drawer.xml",
+        "source": "D:\\Users\\jeremy\\Documents\\informatique\\master1\\android\\applis\\AppliAndroid\\app\\src\\main\\res\\menu\\activity_main_layout_drawer.xml"
+    },
+    {
+        "merged": "D:\\Users\\jeremy\\Documents\\informatique\\master1\\android\\applis\\AppliAndroid\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login.xml",
+        "source": "D:\\Users\\jeremy\\Documents\\informatique\\master1\\android\\applis\\AppliAndroid\\app\\src\\main\\res\\menu\\login.xml"
+    },
+    {
+        "merged": "D:\\Users\\jeremy\\Documents\\informatique\\master1\\android\\applis\\AppliAndroid\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_layout.xml",
+        "source": "D:\\Users\\jeremy\\Documents\\informatique\\master1\\android\\applis\\AppliAndroid\\app\\src\\main\\res\\menu\\main_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\jeremy\\Documents\\informatique\\master1\\android\\applis\\AppliAndroid\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_drawer.xml",
+        "source": "D:\\Users\\jeremy\\Documents\\informatique\\master1\\android\\applis\\AppliAndroid\\app\\src\\main\\res\\menu\\activity_drawer.xml"
+    },
+    {
+        "merged": "D:\\Users\\jeremy\\Documents\\informatique\\master1\\android\\applis\\AppliAndroid\\app\\build\\intermediates\\res\\merged\\debug\\menu\\panier_layout.xml",
+        "source": "D:\\Users\\jeremy\\Documents\\informatique\\master1\\android\\applis\\AppliAndroid\\app\\src\\main\\res\\menu\\panier_layout.xml"
+    }
+]

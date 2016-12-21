@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+    <string name="login_boutonConnexion">Se connecter</string>
+    <string name="login_connexion">CONNEXION</string>
+    <string name="login_mail">Login/Email</string>
+    <string name="login_password">Mot de passe</string>
+</resources>
